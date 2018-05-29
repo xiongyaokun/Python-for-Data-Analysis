@@ -18,6 +18,7 @@ $ sudo apt autoremove python3.5
 ### 开始安装anacoda3
 
 设置共享文件：vagrant默认是与Vagrantfile文件所在目录为共享目录，可以把需要与虚拟机共享的文件直接放在此目录下，可以新建一个共享文件夹
+而且不需要把Python3.5升级到Python3.6
 
 <pre>
 $ sudo bash Anaconada3-5.1.0-Linux-x86\_64.sh
